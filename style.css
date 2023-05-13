@@ -2,5 +2,9 @@ body{
     background-color: red;
     bottom: blue;
     font-size: 3em;
+<<<<<<< HEAD
     margin: 30px;
+=======
+    padding: 30px;
+>>>>>>> feature-c
 }
